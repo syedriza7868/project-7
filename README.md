@@ -14,8 +14,8 @@
 
 - *It took me around 10 hours to complete the webpage.*
 
-# Live link of projects:
- [project 07]()
+
+# [Live project 07](https://effulgent-torte-186b5e.netlify.app/)
 
  ### Preview:
 
